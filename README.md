@@ -7,3 +7,4 @@ Line 1 is added here
 Simple Maven Project
 
 This is a Main branch copy
+this is a main copy
